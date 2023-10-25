@@ -1,2 +1,2 @@
-I pra iniciar e :wq pra escrever e sair
-Foi de edit tbm
+I pra iniciar
+Esc :wq para escrever e sair
